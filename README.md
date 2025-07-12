@@ -7,6 +7,7 @@ Due to the critical significance of rock mass discontinuities in controlling slo
 We have released the segmentation benchmark, namely DeepSegRock, which includes two datasets: the Linear Rock Mass Discontinuity Segmentation Dataset (LRMDSD) and the Planar Rock Mass Discontinuity Segmentation Dataset (PRMDSD). Below are the download links and extraction codes for the datasets. If you have any questions, please feel free to contact me at ltyouc@qq.com.
 
 Website Link: https://pan.baidu.com/s/1S8DdemL1CbE7mrZgGSXiMQ
+
 Extract Code: 66ps
 
 For visiting the Baidu Net on a windows computer, one can access the following website: https://www.baidu.com/link?url=Vc9deB4dvzPYiItTBh7xriHpna2RuYUMfEYfjZ7o03y&wd=&eqid=fdf7d5180472f68f0000000667511c70
